@@ -1,0 +1,12 @@
+[
+  { "Nombre": "Ana", "Edad": 25, "Ciudad": "Madrid" },
+  { "Nombre": "Luis", "Edad": 30, "Ciudad": "Barcelona" },
+  { "Nombre": "Carmen", "Edad": 22, "Ciudad": "Valencia" },
+  { "Nombre": "Pedro", "Edad": 28, "Ciudad": "Sevilla" },
+  { "Nombre": "Lucía", "Edad": 35, "Ciudad": "Zaragoza" },
+  { "Nombre": "María", "Edad": 26, "Ciudad": "Bilbao" },
+  { "Nombre": "José", "Edad": 31, "Ciudad": "Granada" },
+  { "Nombre": "Elena", "Edad": 24, "Ciudad": "Toledo" },
+  { "Nombre": "Andrés", "Edad": 29, "Ciudad": "Málaga" },
+  { "Nombre": "Sofía", "Edad": 27, "Ciudad": "Alicante" }
+]
